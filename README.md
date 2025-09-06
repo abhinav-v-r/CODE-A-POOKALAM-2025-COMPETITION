@@ -3,16 +3,16 @@
 ## 👨‍💻 About Me
 - **Name:** Abhinav V R
 - **Institution:** NSS College of Engineering Palakkad 
-- **GitHub:** [@abhinav-v-r](https://github.com/abhinav-v-r)
+- **GitHub:** [abhinav-v-r](https://github.com/abhinav-v-r)
 - **Programming Language Used:** HTML & CSS
 
 ## 🎨 My Pookalam
 
 ### Description
-[Write a brief description of your Pookalam design, inspiration, or the approach you took]
+This project is a digital Pookalam created with HTML and CSS, inspired by the traditional floral designs of Kerala. It reimagines the festive artwork on a digital canvas, where colors, shapes, and patterns are crafted with code - blending art, culture, and technology.
 
 ### Preview
-![My Pookalam](media/pookalam.png)
+![My Pookalam](pookalam.png)
 
 ### Features
 - Colorful Pookalam Design
@@ -21,8 +21,8 @@
 
 ### Running the Code
 ```bash
+git clone https://github.com/abhinav-v-r/CODE-A-POOKALAM-2025-COMPETITION
 open index.html
-or click on the hosted link
 ```
 
 ## 📁 File Structure
@@ -30,7 +30,9 @@ or click on the hosted link
 Code-a-Pookalam-2025/
 ├── README.md
 ├── index.html
-└── style.css
+├── style.css
+└── pookalam.png
+
 ```
 
 ## 🎊 Happy Onam! 🎊
