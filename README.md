@@ -16,6 +16,7 @@ This project is a digital Pookalam created with HTML and CSS, inspired by the tr
 
 ### Features
 - Colorful Pookalam Design
+- Dynamic Design - The pookalam patterns are created using HTML & CSS, making them colorful and lively.
 
 ## 🚀 How to Run
 
